@@ -33,7 +33,7 @@ Step 1. Enter a Bitcoin address to scan for transactions with fake multisig outp
 
 <img src="images/step-1.png" width="700">
 
-Step 2. Click on the transaction ID for one of these transactions. This will open the corresponding tx page on mempool.space. Scroll down the page and click the "Details" button to the right of "Inputs & Outputs". This will expand the information to include the fields you need to create your spend transaction:
+Step 2. Double-click on a transaction ID for one of these transactions to open its corresponding tx page on mempool.space. Scroll down the page and click the "Details" button to the right of "Inputs & Outputs". This will expand the information to include the fields you need to create your spend transaction:
 
  - Transaction ID (txid): the string after "/tx/" in the browser address bar
  - Amount: sats in output, to the right of "MULTISIG" in the output area
